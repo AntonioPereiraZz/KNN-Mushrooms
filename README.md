@@ -1,2 +1,2 @@
 # KNN-Mushrooms
-Algoritmo KNN para classificação de cogumelos comestíveis ou venenosos.
+Repositório para o algoritmo de classificação KNN, onde certificamos se os cogumelos são comestíveis ou venenosos.
